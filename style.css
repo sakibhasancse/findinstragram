@@ -1,0 +1,29 @@
+#myform{
+
+    padding-top: 20px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: .7rem;
+}
+#myform input{
+    padding: .5rem;
+}
+h2{
+    text-align: center;
+    background-color: rgb(240, 160, 114);
+    padding:1rem;
+}
+h3{
+    text-align: center;
+}
+.instagram_private {
+    text-align: center;
+    
+}
+.footerme{
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(114, 240, 120);
+    padding:1rem;
+
+}
